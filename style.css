@@ -1,0 +1,50 @@
+#wrapper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body {
+    background-color: #331d71;
+}
+
+#jsonOutput {
+    color: gold;
+}
+
+#imageDiv {
+    color: gold;
+    position: relative;
+}
+
+#rectangle {
+    position: absolute;
+    border: 1px solid gold;
+}
+h1 {
+color: gold;
+    text-align: center;
+    font-size: 150%
+
+}
+inputImage {
+padding: inherit;
+
+}
+button {
+border-radius: 12px;
+    width: 250px;
+    padding: 15px 32px;
+    font-size: 150%;
+        background-color: green;
+}
+strong{
+color: gold;
+    text-align: center;
+}
+
+input{
+    padding-right: 15%;
+    position: center; 
+}
