@@ -1,7 +1,9 @@
+
+
+
 #wrapper {
     display: block;
     margin-left: auto;
-    margin-right: auto;
     width: 40%;
 }
 
@@ -20,12 +22,13 @@ body {
 
 #rectangle {
     position: absolute;
-    border: 1px solid gold;
+    border: 7px solid #331d71;
 }
 h1 {
-color: gold;
+color: #331d71;
     text-align: center;
-    font-size: 150%
+    font-size: 150%;
+    font-family: 'Exo', sans-serif;
 
 }
 inputImage {
@@ -37,14 +40,30 @@ border-radius: 12px;
     width: 250px;
     padding: 15px 32px;
     font-size: 150%;
-        background-color: green;
+    background-color: green;
+    font-family: 'Exo', sans-serif;
 }
 strong{
 color: gold;
     text-align: center;
+    font-family: 'Exo', sans-serif;
 }
 
 input{
     padding-right: 15%;
     position: center; 
+}
+
+#must{
+    color: gold;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Exo', sans-serif;
+    
+}
+p{
+color: gold;
+    
+    font-size: 100%;
+    font-family: 'Exo', sans-serif;
 }
